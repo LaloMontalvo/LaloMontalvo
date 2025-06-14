@@ -1,16 +1,37 @@
-## Hi there 👋
+<h3 align="center">
+  Welcome my profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+---
+<div align="center">
+  
+# 💫About Me :
+🔭 I am currently studying software development engineering.
 
-<!--
-**LaloMontalvo/LaloMontalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  👯 I have worked on different collaboration projects.
+  
+  🤔 I like to learn and improve day by day.
 
-Here are some ideas to get you started:
+  💬 I specialize in the frontend side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  📫 How to reach me:  
+  Mail me at "montalvoolguineduardo@gmail.com" or my social networks
+  
+
+
+
+# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" width="50" height="50" alt="Angular" />
+
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
+![](https://forthebadge.com/images/badges/uses-brains.svg)
+---
+![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
+</div>
