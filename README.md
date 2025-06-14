@@ -22,7 +22,7 @@
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="50" height="50" />
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="40" alt="VSCode icon" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="50" alt="VSCode icon" />
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flutter-Dark.svg" width="50" height="50" alt="Flutter logo" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" width="50" height="50" alt="Dart" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50" height="50"/>
